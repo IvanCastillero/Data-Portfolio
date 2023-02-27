@@ -4,3 +4,6 @@ Hello, my name is Ivan and I am a junior data analyst. I have always been fascin
 
 ## [Proyect 1: FoofHub](https://github.com/IvanCastillero/FoodHub-EDA-python-proyect)
 This project involves analyzing a dataset related to food delivery orders from various restaurants. The dataset contains information about the order, customer, restaurant, cuisine, cost, day of the week, rating, food preparation time, and delivery time. The aim of the project is to gain insights into customer behavior, restaurant operations, and satisfaction ratings. The analysis involves exploring the relationship between various variables, identifying trends, and making recommendations to improve customer satisfaction and optimize restaurant operations.
+
+## [Proyect 2: Diabetes prediction model](https://github.com/IvanCastillero/Diabetes-prediction-model-Python)
+This project aimed to predict the likelihood of a person having diabetes based on several clinical variables. The dataset used in this project contained information on 768 patients and their diabetes status. I clean the data, created a logistic regression model for the dataset, tested the performance of the model, and drew conclusions in the end.
