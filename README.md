@@ -10,7 +10,7 @@ In this portfolio, you'll see a range of projects where I've applied my skills i
 
 I'm open to collaborations and opportunities that let me put these skills to good use. Take a look around, and feel free to reach out if you're interested in working together or just want to chat about data science.
 
-## [Proyect 1: FoofHub](https://github.com/IvanCastillero/FoodHub-EDA-python-proyect)
+## [Proyect 1: FoodHub](https://github.com/IvanCastillero/FoodHub-EDA-python-proyect)
 This project involves analyzing a dataset related to food delivery orders from various restaurants. The dataset contains information about the order, customer, restaurant, cuisine, cost, day of the week, rating, food preparation time, and delivery time. The aim of the project is to gain insights into customer behavior, restaurant operations, and satisfaction ratings. The analysis involves exploring the relationship between various variables, identifying trends, and making recommendations to improve customer satisfaction and optimize restaurant operations.
 
 ## [Proyect 2: Diabetes prediction model](https://github.com/IvanCastillero/Diabetes-prediction-model-Python)
