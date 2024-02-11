@@ -1,6 +1,6 @@
 # Data Science and Analytics proyects
 
-Hi, I'm Ivan. I'm a data scientist with a background in psychology. My journey started at Universidad Católica Santa María la Antigua (USMA), where my interest in psychology evolved into a fascination with data science.
+Hi, my name is Ivan. I'm a psychologist AND a data scientist. I like to show information in a very undestandable and concise way, so below you will find bulletpoints with the most important information about myself as a professional and about this e-portfolio.
 
 Since 2022, I've been diving into data analytics, picking up key skills and knowledge. I've completed courses like the Google Data Analytics Certificate and furthered my education with a Post Graduate Program in Data Science and Data Management from the University of Texas. I've also tackled MIT's Data Science and Machine Learning program to understand how to make data-driven decisions.
 
